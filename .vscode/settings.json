@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd e:\\\\Vscode_code\\\\yolo\\\\ultralytics-main ; python -c \"import ultralytics; print\\('Ultralytics version:', ultralytics\\.__version__\\)\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    },
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
+}
